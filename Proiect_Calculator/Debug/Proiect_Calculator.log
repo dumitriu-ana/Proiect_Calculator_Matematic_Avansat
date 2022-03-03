@@ -1,0 +1,29 @@
+﻿  Source.cpp
+C:\Users\anadu\source\repos\Proiect_Calculator\Proiect_Calculator\Source.cpp(140,25): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+C:\Users\anadu\source\repos\Proiect_Calculator\Proiect_Calculator\Source.cpp(150,39): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+C:\Users\anadu\source\repos\Proiect_Calculator\Proiect_Calculator\Source.cpp(393,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\anadu\source\repos\Proiect_Calculator\Proiect_Calculator\Source.cpp(403,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\anadu\source\repos\Proiect_Calculator\Proiect_Calculator\Source.cpp(423,12): warning C4018: '<': signed/unsigned mismatch
+C:\Users\anadu\source\repos\Proiect_Calculator\Proiect_Calculator\Source.cpp(427,13): warning C4018: '<': signed/unsigned mismatch
+C:\Users\anadu\source\repos\Proiect_Calculator\Proiect_Calculator\Source.cpp(443,17): warning C4018: '<': signed/unsigned mismatch
+C:\Users\anadu\source\repos\Proiect_Calculator\Proiect_Calculator\Source.cpp(458,7): warning C4101: 'i': unreferenced local variable
+C:\Users\anadu\source\repos\Proiect_Calculator\Proiect_Calculator\Source.cpp(536,23): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\anadu\source\repos\Proiect_Calculator\Proiect_Calculator\Source.cpp(750,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\anadu\source\repos\Proiect_Calculator\Proiect_Calculator\Source.cpp(777,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\anadu\source\repos\Proiect_Calculator\Proiect_Calculator\Source.cpp(788,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\anadu\source\repos\Proiect_Calculator\Proiect_Calculator\Source.cpp(813,9): warning C4804: '<': unsafe use of type 'bool' in operation
+C:\Users\anadu\source\repos\Proiect_Calculator\Proiect_Calculator\Source.cpp(825,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\anadu\source\repos\Proiect_Calculator\Proiect_Calculator\Source.cpp(837,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\anadu\source\repos\Proiect_Calculator\Proiect_Calculator\Source.cpp(904,15): warning C4018: '<': signed/unsigned mismatch
+C:\Users\anadu\source\repos\Proiect_Calculator\Proiect_Calculator\Source.cpp(906,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\anadu\source\repos\Proiect_Calculator\Proiect_Calculator\Source.cpp(917,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\anadu\source\repos\Proiect_Calculator\Proiect_Calculator\Source.cpp(952,15): warning C4018: '<': signed/unsigned mismatch
+C:\Users\anadu\source\repos\Proiect_Calculator\Proiect_Calculator\Source.cpp(954,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\anadu\source\repos\Proiect_Calculator\Proiect_Calculator\Source.cpp(965,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\anadu\source\repos\Proiect_Calculator\Proiect_Calculator\Source.cpp(1006,15): warning C4018: '<': signed/unsigned mismatch
+C:\Users\anadu\source\repos\Proiect_Calculator\Proiect_Calculator\Source.cpp(1008,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\anadu\source\repos\Proiect_Calculator\Proiect_Calculator\Source.cpp(1019,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\anadu\source\repos\Proiect_Calculator\Proiect_Calculator\Source.cpp(877,25): warning C4101: 'io': unreferenced local variable
+C:\Users\anadu\source\repos\Proiect_Calculator\Proiect_Calculator\Source.cpp(877,29): warning C4101: 'in': unreferenced local variable
+C:\Users\anadu\source\repos\Proiect_Calculator\Proiect_Calculator\Operatie.h(105): warning C4715: 'Operatie::calcul': not all control paths return a value
+  Proiect_Calculator.vcxproj -> C:\Users\anadu\source\repos\Proiect_Calculator\Debug\Proiect_Calculator.exe
