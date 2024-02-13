@@ -8,6 +8,7 @@ Utilizatorul introduce expresia matematică la tastatură si aplicația procesea
 Utilizarea unui vector pentru salvarea operațiilor:
 - Operațiile dintre numere sunt gestionate printr-un vector separat, în care fiecare element conține o operație (aferenta pentru operandul 1 și operandul 2).
 - Dacă expresia conține paranteze imbricate, se rezolva fiecare paranteza pe rand, înlocuind parantezele cu rezultatul și continuând până când nu mai există paranteze.
+- Rezultatul operatiilor anterioare sunt salvate si pot fi utilizate ulterior
 
 ## Clasa Operatie
 ![image](https://github.com/dumitriu-ana/Proiect_Calculator_structurat/assets/72306782/883704aa-3fb7-4a43-a987-645c63e2a914)
@@ -32,4 +33,10 @@ Utilizarea unui vector pentru salvarea operațiilor:
 
 ## Functia de calculare
 ![image](https://github.com/dumitriu-ana/Proiect_Calculator_structurat/assets/72306782/958529eb-cc20-4b9b-a6b9-c9a889795c33)
+
+## Exemple 
+![image](https://github.com/dumitriu-ana/Proiect_Calculator_structurat/assets/72306782/d99a4640-89d1-45de-969e-0d6aaba616f1)
+![image](https://github.com/dumitriu-ana/Proiect_Calculator_structurat/assets/72306782/66e4d592-b6d4-4d1a-a51b-e452c841680c)
+
+
 
